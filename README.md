@@ -30,7 +30,7 @@ The ESP32 processes data from the soil moisture sensors, DHT sensor, and rain se
 ## Installation
 Clone the repository:
 <div align="center">
-    <a href="https://github.com/yourusername/plant-weather-monitoring-system.git">
+    <a href="https://github.com/TechArcanist/Plant-and-Weather-Monitoring-System.git">
         <img src="https://img.shields.io/badge/Clone_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </div>
