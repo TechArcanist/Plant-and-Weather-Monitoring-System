@@ -60,3 +60,10 @@ Connect the components as per the [circuit diagram](#circuit-diagram) and upload
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;" />
 </h1>
+
+
+
+
+
+https://github.com/user-attachments/assets/6d3a23de-8c67-4e39-ac2e-8680bff6a703
+
