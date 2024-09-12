@@ -1,8 +1,9 @@
 # 🌱 Plant and Weather Monitoring System 🌦️
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Plant+and+Weather+Monitoring+System!+🌿;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Plant+and+Weather+Monitoring+System!+🌿;&color=28a745" />
 </h1>
+
 
 ## Features
 - **Capacitive and Resistive Soil Moisture Sensors:** Monitor soil moisture levels for efficient watering.
@@ -63,11 +64,5 @@ https://github.com/user-attachments/assets/6d3a23de-8c67-4e39-ac2e-8680bff6a703
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;&color=28a745" />
 </h1>
-
-
-
-
-
-
