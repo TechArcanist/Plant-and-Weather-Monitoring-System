@@ -45,8 +45,8 @@ Connect the components as per the [circuit diagram](#circuit-diagram) and upload
 - Power on the system, and it will automatically monitor and water the plants based on real-time sensor data, displayed on the LCD.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit-diagram.png)
 
+![diagram_page-0001](https://github.com/user-attachments/assets/900afef9-2e58-4ced-9c77-994a5fceaf02)
 
 https://github.com/user-attachments/assets/beede9d0-3db9-44d0-98c8-99d0d8b1370f
 
