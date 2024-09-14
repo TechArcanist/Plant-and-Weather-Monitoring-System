@@ -46,7 +46,7 @@ Connect the components as per the [circuit diagram](#circuit-diagram) and upload
 
 ## Circuit Diagram
 
-![diagram_page-0001](https://github.com/user-attachments/assets/900afef9-2e58-4ced-9c77-994a5fceaf02)
+![diagram_page-0001 (2)](https://github.com/user-attachments/assets/d50b7f37-8a5f-45d5-aaf6-93b1f40611e8)
 
 https://github.com/user-attachments/assets/beede9d0-3db9-44d0-98c8-99d0d8b1370f
 
